@@ -1,0 +1,20 @@
+#ss{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body{
+    border: 2px solid black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVFbnjmItgeiOA2LVksTT48z1rH-X1jOPEg&usqp=CAU") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#cc{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
